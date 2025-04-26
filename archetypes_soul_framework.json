@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Windbearer",
+    "element": "Air",
+    "traits": {
+      "light": [
+        "Inquisitive",
+        "Creative",
+        "Expansive"
+      ],
+      "shadow": [
+        "Detached",
+        "Overthinking",
+        "Restless"
+      ]
+    },
+    "strengths": [
+      "Idea generation",
+      "Visionary thinking",
+      "Adaptability"
+    ],
+    "challenges": [
+      "Staying grounded",
+      "Finishing tasks",
+      "Emotional presence"
+    ],
+    "manifestationStyle": "Dreams, concepts, and communication",
+    "loveProfile": {
+      "coreMatch": "Rootkeeper",
+      "preferencePull": "Fluxweaver",
+      "connectionStyle": "Mental intimacy, shared ideas, spontaneity"
+    },
+    "recommendations": {
+      "affirmations": [
+        "I am limitless in thought and spirit.",
+        "My ideas inspire transformation."
+      ],
+      "products": [
+        "Essential oil diffuser",
+        "Light journal",
+        "Lavender candle"
+      ],
+      "colors": [
+        "Sky blue",
+        "White",
+        "Silver"
+      ],
+      "symbols": [
+        "Feather",
+        "Cloud",
+        "Spiral"
+      ]
+    },
+    "aesthetic": "Ethereal minimalism with open space and fluid design",
+    "affirmation": "I move with the winds of truth and breathe life into vision."
+  },
+  {
+    "name": "Flameheart",
+    "element": "Fire",
+    "traits": {
+      "light": [
+        "Passionate",
+        "Confident",
+        "Motivating"
+      ],
+      "shadow": [
+        "Impulsive",
+        "Dominating",
+        "Burnout-prone"
+      ]
+    },
+    "strengths": [
+      "Leadership",
+      "Action-taking",
+      "Emotional ignition"
+    ],
+    "challenges": [
+      "Patience",
+      "Sensitivity to others",
+      "Sustainability"
+    ],
+    "manifestationStyle": "Through passion, action, and direct will",
+    "loveProfile": {
+      "coreMatch": "Tidemaker",
+      "preferencePull": "Lumenveil",
+      "connectionStyle": "Intensity, expression, physical and emotional presence"
+    },
+    "recommendations": {
+      "affirmations": [
+        "My fire fuels creation.",
+        "I burn with love, not destruction."
+      ],
+      "products": [
+        "Red jasper crystal",
+        "Fire-toned body oil",
+        "Peppermint candle"
+      ],
+      "colors": [
+        "Crimson",
+        "Gold",
+        "Orange"
+      ],
+      "symbols": [
+        "Flame",
+        "Phoenix",
+        "Torch"
+      ]
+    },
+    "aesthetic": "Bold hues, dynamic shapes, radiant glow",
+    "affirmation": "I am the fire of transformation and the light that warms the world."
+  },
+  {
+    "name": "Tidemaker",
+    "element": "Water",
+    "traits": {
+      "light": [
+        "Empathic",
+        "Reflective",
+        "Healing"
+      ],
+      "shadow": [
+        "Overly sensitive",
+        "Withdrawn",
+        "Emotionally heavy"
+      ]
+    },
+    "strengths": [
+      "Emotional intelligence",
+      "Healing presence",
+      "Artistic depth"
+    ],
+    "challenges": [
+      "Boundaries",
+      "Consistency",
+      "Self-prioritization"
+    ],
+    "manifestationStyle": "Through feeling, reflection, and intuitive flow",
+    "loveProfile": {
+      "coreMatch": "Flameheart",
+      "preferencePull": "Umbraseer",
+      "connectionStyle": "Emotional connection, nurturing, soulful presence"
+    },
+    "recommendations": {
+      "affirmations": [
+        "I flow with grace.",
+        "My emotions are a sacred compass."
+      ],
+      "products": [
+        "Moonstone jewelry",
+        "Blue bath salts",
+        "Chamomile candle"
+      ],
+      "colors": [
+        "Teal",
+        "Indigo",
+        "Silver"
+      ],
+      "symbols": [
+        "Wave",
+        "Shell",
+        "Moon"
+      ]
+    },
+    "aesthetic": "Soft gradients, flowing curves, watery textures",
+    "affirmation": "I carry the tides of love and the ocean of truth within me."
+  },
+  {
+    "name": "Rootkeeper",
+    "element": "Earth",
+    "traits": {
+      "light": [
+        "Grounded",
+        "Reliable",
+        "Wise"
+      ],
+      "shadow": [
+        "Rigid",
+        "Possessive",
+        "Resistant to change"
+      ]
+    },
+    "strengths": [
+      "Stability",
+      "Long-term vision",
+      "Nurturing foundations"
+    ],
+    "challenges": [
+      "Letting go",
+      "Spontaneity",
+      "Trusting the unknown"
+    ],
+    "manifestationStyle": "Through routine, grounded action, and cultivation",
+    "loveProfile": {
+      "coreMatch": "Windbearer",
+      "preferencePull": "Stormcall",
+      "connectionStyle": "Steadiness, loyalty, shared goals"
+    },
+    "recommendations": {
+      "affirmations": [
+        "I am rooted and resilient.",
+        "Growth comes through steady love."
+      ],
+      "products": [
+        "Clay mask",
+        "Forest incense",
+        "Vetiver candle"
+      ],
+      "colors": [
+        "Forest green",
+        "Brown",
+        "Copper"
+      ],
+      "symbols": [
+        "Tree",
+        "Stone",
+        "Mountain"
+      ]
+    },
+    "aesthetic": "Earth tones, natural materials, symmetry and weight",
+    "affirmation": "I am the root of peace and the soil of becoming."
+  },
+  {
+    "name": "Stormcall",
+    "element": "Lightning",
+    "traits": {
+      "light": [
+        "Electrifying",
+        "Innovative",
+        "Fearless"
+      ],
+      "shadow": [
+        "Chaotic",
+        "Overstimulated",
+        "Reckless"
+      ]
+    },
+    "strengths": [
+      "Creative breakthroughs",
+      "Radical change",
+      "Powerful presence"
+    ],
+    "challenges": [
+      "Focus",
+      "Follow-through",
+      "Emotional grounding"
+    ],
+    "manifestationStyle": "Through disruption, electricity, and new patterns",
+    "loveProfile": {
+      "coreMatch": "Lumenveil",
+      "preferencePull": "Rootkeeper",
+      "connectionStyle": "Adventure, fast-paced energy, shared creativity"
+    },
+    "recommendations": {
+      "affirmations": [
+        "I create storms of change.",
+        "My power is precise and pure."
+      ],
+      "products": [
+        "Citrus perfume",
+        "Electrolyte tonic",
+        "Citronella candle"
+      ],
+      "colors": [
+        "Electric blue",
+        "White",
+        "Neon yellow"
+      ],
+      "symbols": [
+        "Bolt",
+        "Tesla coil",
+        "Spark"
+      ]
+    },
+    "aesthetic": "High contrast, angular shapes, futuristic textures",
+    "affirmation": "I am the strike that awakens and the energy that transforms."
+  },
+  {
+    "name": "Lumenveil",
+    "element": "Light",
+    "traits": {
+      "light": [
+        "Uplifting",
+        "Peaceful",
+        "Revealing"
+      ],
+      "shadow": [
+        "Avoidant",
+        "Naive",
+        "Overexposed"
+      ]
+    },
+    "strengths": [
+      "Spiritual clarity",
+      "Joyful presence",
+      "Compassion"
+    ],
+    "challenges": [
+      "Depth confrontation",
+      "Emotional vulnerability",
+      "Shadow denial"
+    ],
+    "manifestationStyle": "Through illumination, radiance, and inner peace",
+    "loveProfile": {
+      "coreMatch": "Stormcall",
+      "preferencePull": "Flameheart",
+      "connectionStyle": "Spiritual harmony, calm warmth, loving kindness"
+    },
+    "recommendations": {
+      "affirmations": [
+        "My light heals all things.",
+        "I shine without fear."
+      ],
+      "products": [
+        "Golden incense",
+        "Sunstone crystal",
+        "Lemon blossom candle"
+      ],
+      "colors": [
+        "Gold",
+        "Cream",
+        "Rose"
+      ],
+      "symbols": [
+        "Sun",
+        "Halo",
+        "Mirror"
+      ]
+    },
+    "aesthetic": "Soft golden glows, elegant gradients, tranquil layouts",
+    "affirmation": "I am light born of love, and my radiance reveals truth."
+  },
+  {
+    "name": "Umbraseer",
+    "element": "Shadow",
+    "traits": {
+      "light": [
+        "Mysterious",
+        "Wise",
+        "Transformative"
+      ],
+      "shadow": [
+        "Withdrawn",
+        "Brooding",
+        "Fearful of light"
+      ]
+    },
+    "strengths": [
+      "Inner work",
+      "Depth perception",
+      "Powerful intuition"
+    ],
+    "challenges": [
+      "Isolation",
+      "Pessimism",
+      "Expressing vulnerability"
+    ],
+    "manifestationStyle": "Through introspection, silence, and dreamwork",
+    "loveProfile": {
+      "coreMatch": "Fluxweaver",
+      "preferencePull": "Tidemaker",
+      "connectionStyle": "Soul-deep connection, nonverbal love, protection"
+    },
+    "recommendations": {
+      "affirmations": [
+        "My shadows guide me.",
+        "There is beauty in the unseen."
+      ],
+      "products": [
+        "Charcoal mask",
+        "Black tourmaline",
+        "Myrrh candle"
+      ],
+      "colors": [
+        "Black",
+        "Deep purple",
+        "Maroon"
+      ],
+      "symbols": [
+        "Mask",
+        "Owl",
+        "Eclipse"
+      ]
+    },
+    "aesthetic": "Dark elegance, velvet tones, mystic ambiance",
+    "affirmation": "I am the sacred unknown, and I transform in the silence."
+  },
+  {
+    "name": "Fluxweaver",
+    "element": "Aether",
+    "traits": {
+      "light": [
+        "Balanced",
+        "Multidimensional",
+        "Fluid"
+      ],
+      "shadow": [
+        "Indecisive",
+        "Dissociative",
+        "Overwhelmed"
+      ]
+    },
+    "strengths": [
+      "Versatility",
+      "Perspective shifting",
+      "Energetic mastery"
+    ],
+    "challenges": [
+      "Anchoring",
+      "Identity clarity",
+      "Emotional commitment"
+    ],
+    "manifestationStyle": "Through shifting frequencies and energetic threads",
+    "loveProfile": {
+      "coreMatch": "Umbraseer",
+      "preferencePull": "Windbearer",
+      "connectionStyle": "Energetic bonds, intuitive rapport, shared evolution"
+    },
+    "recommendations": {
+      "affirmations": [
+        "I am the dance between worlds.",
+        "My essence is ever-becoming."
+      ],
+      "products": [
+        "Chakra mist",
+        "Prism crystal",
+        "Sandalwood candle"
+      ],
+      "colors": [
+        "Iridescent",
+        "Opal",
+        "Violet"
+      ],
+      "symbols": [
+        "Infinity loop",
+        "Waveform",
+        "Thread"
+      ]
+    },
+    "aesthetic": "Shifting gradients, holographic textures, ethereal elegance",
+    "affirmation": "I weave between realms, shaping truth with every breath."
+  }
+]
